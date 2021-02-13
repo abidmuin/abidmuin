@@ -3,7 +3,7 @@
 
 - 💼 Status - Actively looking for job opportunities.
 - 🔭 I’m currently working on - [LeetCode problem solving.](https://leetcode.com/problemset/all/)
-- 🌱 I’m currently learning - [Recursion Programming.](https://g.co/kgs/YUhr8c)
+- 🌱 I’m currently learning - [Angular](https://angular.io/)
 - 👯 I’m looking to collaborate on - ML / DL / AI projects.
 - 🤔 I’m looking for help with - [Django Project.](https://www.djangoproject.com/)
 - 🎯 2020 Goals: Contribute more to Open Source projects.
